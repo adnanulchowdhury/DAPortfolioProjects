@@ -3,6 +3,7 @@ Covid-19 Data Exploration
 
 SQL Skills Used: Joins, CTE's, Temp Tables, Windows Function, Aggregate Functions, Creating Views, Converting Data Types
 
+Data Source: https://ourworldindata.org/covid-deaths
 */
 
 select *
